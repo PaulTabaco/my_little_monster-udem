@@ -28,6 +28,8 @@ class ViewController: UIViewController {
     var monsterHappy = false
     var currenItem: UInt32 = 0
     
+    
+    
     var musicPlayer: AVAudioPlayer!
     var sfxBite: AVAudioPlayer!
     var sfxHeart: AVAudioPlayer!
